@@ -1,5 +1,5 @@
 # GROUP22_CENG313
-# CENG313 Data Science Project - GROUPxx
+# CENG313 Data Science Project - GROUP22
 
 ## Proje Bilgileri
 * **Yarışma:** BirdCLEF 2025 (Kaggle)
