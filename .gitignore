@@ -1,0 +1,6 @@
+data/
+sample_audio/
+*.ogg
+*.csv
+*.zip
+__pycache__/
